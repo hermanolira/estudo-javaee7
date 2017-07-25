@@ -1,0 +1,19 @@
+--------
+ JavaSE
+--------
+https://docs.oracle.com/javase/tutorial/
+
+http://docs.oracle.com/javase/tutorial/index.html
+
+http://docs.oracle.com/javase/tutorial/java/TOC.html
+
+======================================================================
+
+--------
+ JavaEE
+--------
+http://www.oracle.com/technetwork/java/javaee/overview/index.html
+
+http://docs.oracle.com/javaee/7/index.html
+
+https://docs.oracle.com/javaee/7/tutorial/index.html
